@@ -1,3 +1,5 @@
+//EUCLIDs algorithm based on modulo operation to find Gcd of 2 non-negative numbers.
+
 #include<stdio.h>
 
 int main()
