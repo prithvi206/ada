@@ -57,7 +57,7 @@ int main()
 
      for(n=X;n<Y;n+=INCRE)
      {
-      a= (int *)malloc(X*sizeof(int));
+      a= (int *)malloc(n*sizeof(int));
       i=0;
       while(i!=n)
       {
